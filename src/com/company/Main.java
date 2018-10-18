@@ -1,6 +1,6 @@
 //**************************************//
 //Autor Felipe Choque
-//Distintas soluciones de ejercicios
+//Distintas soluciones de ejercicios hechas por mi
 //de la pagina www.codeabbey.com
 //**************************************//
 
